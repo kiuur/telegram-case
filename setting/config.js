@@ -1,1 +1,1 @@
-global.token = "7664467597:AAEAP14P0FODIKFEw1t8dzDU5jbrNQsoTU0"
+global.token = "TOKEN BOT"
