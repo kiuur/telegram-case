@@ -1,0 +1,22 @@
+{
+  "name": "kyuubeyours",
+  "version": "1.0.0",
+  "description": "apa aja, gabut soalnya",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fs": "^0.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^2.6.12",
+    "jimp": "^0.16.3",
+    "telegraf": "^0.61.0",
+    "path": "^0.12.7",
+    "pino": "^8.14.1",
+    "util": "^0.12.5",
+    "yt-search": "latest"
+  }
+}
